@@ -1,0 +1,29 @@
+{
+  "name": "projectdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaziaSayyad/Projectdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaziaSayyad/Projectdb/issues"
+  },
+  "homepage": "https://github.com/NaziaSayyad/Projectdb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
